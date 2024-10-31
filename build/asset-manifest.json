@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/testeweb/static/css/main.155a2052.css",
+    "main.js": "/testeweb/static/js/main.618d8978.js",
+    "static/js/453.8d428687.chunk.js": "/testeweb/static/js/453.8d428687.chunk.js",
+    "static/media/Inter-Bold.woff2": "/testeweb/static/media/Inter-Bold.c3c9f10a4dbfc7314a59.woff2",
+    "static/media/InterDisplay-SemiBold.woff2": "/testeweb/static/media/InterDisplay-SemiBold.54b6be6a7edc5b3cbdd6.woff2",
+    "static/media/Inter-Light.woff2": "/testeweb/static/media/Inter-Light.d6125db9dd20399de932.woff2",
+    "static/media/Like.svg": "/testeweb/static/media/Like.3826c074a1b94b101e38.svg",
+    "index.html": "/testeweb/index.html",
+    "static/media/Trash.svg": "/testeweb/static/media/Trash.c4956c32989e66228de8.svg",
+    "static/media/Like_hov.svg": "/testeweb/static/media/Like_hov.226461bd64622361ffb2.svg",
+    "static/media/CloseIcon.svg": "/testeweb/static/media/CloseIcon.0a2678e11f71ce96ede30ffa375143dd.svg",
+    "static/media/EditButton.svg": "/testeweb/static/media/EditButton.8667ac4a523e8fc42e59641845fc8448.svg",
+    "static/media/addButton.svg": "/testeweb/static/media/addButton.d86bb2edc2f6eadb96b785d29c82b56e.svg",
+    "main.155a2052.css.map": "/testeweb/static/css/main.155a2052.css.map",
+    "main.618d8978.js.map": "/testeweb/static/js/main.618d8978.js.map",
+    "453.8d428687.chunk.js.map": "/testeweb/static/js/453.8d428687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155a2052.css",
+    "static/js/main.618d8978.js"
+  ]
+}
